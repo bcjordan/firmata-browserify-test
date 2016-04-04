@@ -1,1 +1,1 @@
-var five = require('firmata');
+window.firmata = require('firmata');
